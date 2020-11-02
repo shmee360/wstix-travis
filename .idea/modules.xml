@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wstix-travis.iml" filepath="$PROJECT_DIR$/.idea/modules/wstix-travis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ListyCity.iml" filepath="$PROJECT_DIR$/.idea/modules/ListyCity.iml" group="ListyCity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ListyCity/app" />
     </modules>
   </component>
 </project>
